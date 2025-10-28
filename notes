@@ -1,0 +1,17 @@
+task-manager/
+│
+├── auth-service/          ← handles sign up, login, JWTs, etc.
+├── task-service/          ← handles tasks (CRUD, drag/drop)
+├── notification-service/  ← handles email reminders, queue
+└── client/                ← React frontend (talks to others via REST)
+
+Each backend service will be a small Node.js + Express + MongoDB app.
+They’ll communicate via REST API calls or (optionally later) message queues.
+
+Step 1
+Create Auth Service app
+
+then you install dependencies:
+then add base file structure:
+then implement user signup/login with JWTs:
+then test with Postman or curl:
