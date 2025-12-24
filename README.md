@@ -14,7 +14,7 @@ Persistent data storage with MongoDB
 
 **Tech Stack**
 
-Frontend: React, HTML, CSS 
+Frontend: React, HTML, CSS                  
 Backend: Node.js, Express 
 Database: MongoDB 
 Other: REST APIs, asynchronous programming 
