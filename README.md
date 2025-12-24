@@ -6,17 +6,17 @@ TaskFlow is a full-stack personal productivity application designed to help user
 
 **Features**
 
-User authentication and secure account management 
-Create, update, and delete tasks 
-Drag-and-drop task reordering 
-Email reminders and notifications 
+User authentication and secure account management                    
+Create, update, and delete tasks                         
+Drag-and-drop task reordering                       
+Email reminders and notifications                        
 Persistent data storage with MongoDB 
 
 **Tech Stack**
 
 Frontend: React, HTML, CSS                  
-Backend: Node.js, Express 
-Database: MongoDB 
+Backend: Node.js, Express                         
+Database: MongoDB                          
 Other: REST APIs, asynchronous programming 
  
 **What I’m Learning**
